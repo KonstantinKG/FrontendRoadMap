@@ -11,6 +11,7 @@
 </p>
 
 - **[VS CODE СКАЧАТЬ](https://code.visualstudio.com/Download)**
+- **[ВИДЕО ПО НАСТРОЙКЕ VS CODE](https://www.youtube.com/watch?v=nxCLXMBl4e4&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=49)**
 
 
 <h3>Видосики, уроки, плейлисты</h3>
